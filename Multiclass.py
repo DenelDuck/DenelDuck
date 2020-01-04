@@ -96,14 +96,3 @@ plt.plot([x], [Y], marker = 'o', markersize = 10, color = 'r')
 print('Prediction is:', prediction)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
