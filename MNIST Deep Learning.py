@@ -189,8 +189,5 @@ prediction = model.predict_classes(image)
 print("predicted digit:", str(prediction))
 
 
-# In[ ]:
-
-
 
 
